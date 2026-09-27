@@ -2,6 +2,9 @@
 
 A simple AI chatbot built with Python and the Google Gemini API that allows users to interact with an AI model through the command line.
 
+<img width="614" height="227" alt="image" src="https://github.com/user-attachments/assets/5c35949d-de3e-4cb5-ac0e-8b40e8d3dacd" />
+
+
 ✨ Features
 
 - Interactive AI conversations
